@@ -1,1 +1,1 @@
-{"Bob":"One", "Teddy":"Two", "Charlie":"Three"}
+{"Bob":{"A":"Did you mean B?", "B":"That's right!"}, "Teddy":"Two", "Charlie":"Three"}
