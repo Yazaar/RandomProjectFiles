@@ -1,30 +1,22 @@
 {
-	"NR1": {
-		"A": "Heyy",
-		"B": "YO"
+	"Streamlabs_Essentials": {
+		"creator": "Yazaar",
+		"info": "Contains multiple commands that should be essential in Streamlabs Chatbot. For more info check the link!",
+		"url": "COMMING SOON"
 	},
-	"NR2": {
-		"A": "Cheers",
-		"B": "Heyya"
+	"Gamble": {
+		"creator": "Yazaar",
+		"info": "Gamble your points away, this script contains a gamble random command. Pick within a range and let the computer pick. You are of course able to gamble a set amount as well. Change any settings thru chat commands!",
+		"url": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/tree/Gamble"
 	},
-	"NR3": {
-		"A": "Boop",
-		"B": "Swoosh"
+	"ViewerCommands": {
+		"creator": "Yazaar",
+		"info": "Give users the possibility to have their own command that they can change on demand! Nightbot is required! Open link for more info",
+		"url": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/tree/ViewerCommands"
 	},
-	"NR4": {
-		"A": "LUL",
-		"B": "monkaS"
-	},
-	"NR5": {
-		"A": "What",
-		"B": "Friends?"
-	},
-	"NR6": {
-		"A": "Who are you?",
-		"B": "HOW DARE YOU?"
-	},
-	"NR7": {
-		"A": "I am so confused",
-		"B": "Are you confused as well?"
+	"LootDrop": {
+		"creator": "Yazaar",
+		"info": "Reward active users and let them collect loot in form of points. The command activates at different times (configurable as well) and deactivates after a set amount of times, as well a feature to randomized pick a few lucky winners (more points).",
+		"url": "[no url available]"
 	}
 }
