@@ -1,1 +1,10 @@
-{"NR1":{"A":"Hello, I'm NR1", "B":"Bye from NR1"}, "NR2":{"A":"Hello, I'm NR2", "B":"Bye from NR2"}, "NR3":{"A":"Hello, I'm NR3", "B":"Bye from NR3"}, "NR4":{"A":"Hello, I'm NR4", "B":"Bye from NR4"}}
+{
+  "NR1":{
+  "A":"Heyy"
+  "B":"YO"
+  }
+  "NR2":{
+  "A":"Cheers"
+  "B":"Heyya"
+  }
+}
