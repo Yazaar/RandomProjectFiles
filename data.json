@@ -1,10 +1,10 @@
 {
-  "NR1":{
-  "A":"Heyy"
-  "B":"YO"
-  }
-  "NR2":{
-  "A":"Cheers"
-  "B":"Heyya"
-  }
+	"NR1": {
+		"A": "Heyy",
+		"B": "YO"
+	},
+	"NR2": {
+		"A": "Cheers",
+		"B": "Heyya"
+	}
 }
