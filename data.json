@@ -1,26 +1,26 @@
 {
-	"Streamlabs_Essentials": {
+	"streamlabs_essentials": {
 		"creator": "Yazaar",
 		"info": "Contains multiple commands that should be essential in Streamlabs Chatbot. For more info check the link!",
-		"url": "COMMING SOON",
+		"url": "",
 		"download": ""
 	},
-	"Gamble": {
+	"gamble": {
 		"creator": "Yazaar",
 		"info": "Gamble your points away, this script contains a gamble random command. Pick within a range and let the computer pick. You are of course able to gamble a set amount as well. Change any settings thru chat commands!",
 		"url": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/tree/Gamble",
 		"download": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/blob/Gamble/Gamble.zip?raw=true"
 	},
-	"ViewerCommands": {
+	"viewercommands": {
 		"creator": "Yazaar",
 		"info": "Give users the possibility to have their own command that they can change on demand! Nightbot is required! Open link for more info",
 		"url": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/tree/ViewerCommands",
 		"download": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/blob/ViewerCommands/ViewerCommands.zip?raw=true"
 	},
-	"LootDrop": {
+	"lootdrop": {
 		"creator": "Yazaar",
 		"info": "Reward active users and let them collect loot in form of points. The command activates at different times (configurable as well) and deactivates after a set amount of times, as well a feature to randomized pick a few lucky winners (more points).",
-		"url": "[no url available]",
+		"url": "",
 		"download": ""
 	}
 }
