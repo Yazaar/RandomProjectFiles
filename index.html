@@ -59,7 +59,7 @@
                 <h1>SCRIPT NAME<br>(use this in the install command)</h1>
                 <p>BY USER</p>
                 <p>SCRIPT INFO</p>
-                <p>POSSIBLY A LINK</p>
+                <p>INFO LINK</p>
             </div>
     </article>
     <article id="flow">LOADING...</article>
@@ -84,13 +84,20 @@
 
 function ChangeFlow() {
     let ParsedData = JSON.parse(xml.responseText)
+    let ElementData
     element.innerHTML = ""
     for (key in ParsedData){
-        if (ParsedData[key]["url"].includes("http")){
-            element.innerHTML = element.innerHTML + '<div class="content">' + "<h1>" + key + "</h1>" + "<p>" + ParsedData[key]["creator"] + "</p>" + "<p>" + ParsedData[key]["info"] + "</p>" + '<a href="' + ParsedData[key]["url"] + '">Link</a>' + "</div>"
-        } else {
-            element.innerHTML = element.innerHTML + '<div class="content">' + "<h1>" + key + "</h1>" + "<p>" + ParsedData[key]["creator"] + "</p>" + "<p>" + ParsedData[key]["info"] + "</p>" + "</div>"
+        //element.innerHTML = element.innerHTML + '<div class="content">' + "<h1>" + key + "</h1>" + "<p>" + ParsedData[key]["creator"] + "</p>" + "<p>" + ParsedData[key]["info"] + "</p>" + '<a href="' + ParsedData[key]["url"] + '">Info link</a>' + "</div>"
+        ElementData = element.innerHTML + '<div class="content">' + "<h1>" + key + "</h1>" + "<p>" + ParsedData[key]["creator"] + "</p>" + "<p>" + ParsedData[key]["info"] + "</p>"
+        if (ParsedData[key]["url"] != ""){
+        ElementData = ElementData + '<a href="' + ParsedData[key]["url"] + '">Info link</a>'
         }
+        if (ParsedData[key]["url"] != ""){
+        ElementData = ElementData + '<a href="' + ParsedData[key]["download"] + '">Download link</a>'
+        } else {
+            ElementData = ElementData + '<p>COMMING SOON</p>'
+        }
+        element.innerHTML = ElementData
     }
 }
 
