@@ -39,6 +39,7 @@
 
         .content a {
             color: unset;
+            margin: 5px;
         }
 
         header {
@@ -92,12 +93,12 @@ function ChangeFlow() {
         if (ParsedData[key]["url"] != ""){
         ElementData = ElementData + '<a href="' + ParsedData[key]["url"] + '">Info link</a>'
         }
-        if (ParsedData[key]["url"] != ""){
+        if (ParsedData[key]["download"] != ""){
         ElementData = ElementData + '<a href="' + ParsedData[key]["download"] + '">Download link</a>'
         } else {
             ElementData = ElementData + '<p>COMMING SOON</p>'
         }
-        element.innerHTML = ElementData
+        element.innerHTML = ElementData + '</div>'
     }
 }
 
