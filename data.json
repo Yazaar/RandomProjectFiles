@@ -20,7 +20,7 @@
 	"lootdrop": {
 		"creator": "Yazaar",
 		"info": "Reward active users and let them collect loot in form of points. The command activates at different times (configurable as well) and deactivates after a set amount of times, as well a feature to randomized pick a few lucky winners (more points).",
-		"url": "",
-		"download": ""
+		"url": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/tree/LootDropper",
+		"download": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/blob/LootDropper/Lootdropper.zip?raw=true"
 	}
 }
