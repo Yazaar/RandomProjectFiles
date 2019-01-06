@@ -23,7 +23,7 @@
 		"url": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/tree/LootDropper",
 		"download": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/blob/LootDropper/Lootdropper.zip?raw=true"
 	},
-	"warn&announce": {
+	"warnandannounce": {
 		"creator": "Yazaar",
 		"info": "Let moderators create popup messages with or without sound to catch everyones attention.",
 		"url": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/tree/Warn%26Announce",
