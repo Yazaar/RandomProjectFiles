@@ -22,5 +22,11 @@
 		"info": "Reward active users and let them collect loot in form of points. The command activates at different times (configurable as well) and deactivates after a set amount of seconds, as well a feature to randomized pick a few lucky winners (more points).",
 		"url": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/tree/LootDropper",
 		"download": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/blob/LootDropper/Lootdropper.zip?raw=true"
+	},
+	"warn&announce": {
+		"creator": "Yazaar",
+		"info": "Let moderators create popup messages with or without sound to catch everyones attention.",
+		"url": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/tree/Warn%26Announce",
+		"download": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/blob/Warn&Announce/Warn&Announce.zip?raw=true"
 	}
 }
