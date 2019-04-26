@@ -7,7 +7,7 @@
 	},
 	"gamble": {
 		"creator": "Yazaar",
-		"info": "Gamble your points away, this script contains a gamble random command. Pick within a range and let the computer pick. You are of course able to gamble a set amount as well. Change any settings thru chat commands!",
+		"info": "Gamble your points away, this script contains a gamble random command. Pick within a range and let the computer pick. You are of course able to gamble a set amount as well. Change any settings thru the chatbots settings panel!",
 		"url": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/tree/Gamble",
 		"download": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/blob/Gamble/Gamble.zip?raw=true"
 	},
