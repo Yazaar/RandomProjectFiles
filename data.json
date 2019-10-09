@@ -5,6 +5,12 @@
 		"url": "",
 		"download": ""
 	},
+	"russian_roulette": {
+		"creator": "Yazaar",
+		"info": "Let users in your stream challange each other in Russian Roulette, you have a revolver with 6 bullets. But who is going to get shot? The winner \"steals\" the betted amount from the loser.",
+		"url": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/tree/RussianRoulette",
+		"download": "https://github.com/Yazaar/Streamlabs-Chatbot-Scripts/blob/RussianRoulette/RussianRoulette.zip?raw=true"
+	},
 	"gamble": {
 		"creator": "Yazaar",
 		"info": "Gamble your points away, this script contains a gamble random command. Pick within a range and let the computer pick. You are of course able to gamble a set amount as well. Change any settings thru the chatbots settings panel!",
